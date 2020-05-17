@@ -1,0 +1,11 @@
+C:\Users\sunny\source\repos\Russian_Roullete\Russian_Roullete\bin\Debug\Russian_Roullete.exe.config
+C:\Users\sunny\source\repos\Russian_Roullete\Russian_Roullete\bin\Debug\Russian_Roullete.exe
+C:\Users\sunny\source\repos\Russian_Roullete\Russian_Roullete\bin\Debug\Russian_Roullete.pdb
+C:\Users\sunny\source\repos\Russian_Roullete\Russian_Roullete\obj\Debug\Russian_Roullete.csprojAssemblyReference.cache
+C:\Users\sunny\source\repos\Russian_Roullete\Russian_Roullete\obj\Debug\Russian_Roullete.Form1.resources
+C:\Users\sunny\source\repos\Russian_Roullete\Russian_Roullete\obj\Debug\Russian_Roullete.Properties.Resources.resources
+C:\Users\sunny\source\repos\Russian_Roullete\Russian_Roullete\obj\Debug\Russian_Roullete.RussianRoullete.resources
+C:\Users\sunny\source\repos\Russian_Roullete\Russian_Roullete\obj\Debug\Russian_Roullete.csproj.GenerateResource.cache
+C:\Users\sunny\source\repos\Russian_Roullete\Russian_Roullete\obj\Debug\Russian_Roullete.csproj.CoreCompileInputs.cache
+C:\Users\sunny\source\repos\Russian_Roullete\Russian_Roullete\obj\Debug\Russian_Roullete.exe
+C:\Users\sunny\source\repos\Russian_Roullete\Russian_Roullete\obj\Debug\Russian_Roullete.pdb
